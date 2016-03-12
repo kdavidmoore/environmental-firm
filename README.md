@@ -1,8 +1,8 @@
-# Bootstrap Gallery
+# Environmental Consulting Firm
 
-## Class project and homework for March 9, 2016 (Unit 1)
+## Basic layout for an environmental firm
 
-This page presents a Bootstrap photo gallery.
+Personal project built using Bootstrap 3.
 
 ##Demo here
 
