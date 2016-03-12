@@ -1,0 +1,16 @@
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    body { padding-top: 250px; }
+}
+
+.thumbnail {
+	border: none;
+}
+
+img {
+	width: 100%;
+}
