@@ -1,11 +1,3 @@
-# Environmental Consulting Firm
+# Environmental Consulting Web Site
 
-## Basic layout for an environmental firm
-
-Personal project built using Bootstrap 3.
-
-##Demo here
-
-...insert link to portfolio here as soon as it's up
-
-[I learned this at DigitalCrafts](https://www.digitalcrafts.com)
+This project was an attempt to re-create the web site of an environmental consulting firm using Bootstrap. I think it's a big improvement.
